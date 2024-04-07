@@ -1,0 +1,38 @@
+Server 2: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+===========================================================
+Server 1: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+===========================================================
+Server 2: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+Server 2: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+===========================================================
+Server 1: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+Server 1: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+===========================================================
+Server 2: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+Server 2: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+Server 2: ID: 3 | Name: Petr | Age: 40 | Friends: []
+===========================================================
+Server 1: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+Server 1: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+Server 1: ID: 3 | Name: Petr | Age: 40 | Friends: []
+===========================================================
+Server 2: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+Server 2: ID: 3 | Name: Petr | Age: 40 | Friends: []
+Server 2: ID: 4 | Name: Ivan | Age: 38 | Friends: []
+Server 2: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+===========================================================
+Server 1: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+Server 1: ID: 3 | Name: Petr | Age: 40 | Friends: []
+Server 1: ID: 4 | Name: Ivan | Age: 38 | Friends: []
+Server 1: ID: 1 | Name: Ildus | Age: 44 | Friends: [2]
+===========================================================
+Server 2: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+Server 2: ID: 3 | Name: Petr | Age: 40 | Friends: []
+Server 2: ID: 4 | Name: Ivan | Age: 38 | Friends: []
+Server 2: ID: 1 | Name: Ildus | Age: 28 | Friends: [2]
+===========================================================
+Server 1: ID: 1 | Name: Ildus | Age: 28 | Friends: [2]
+Server 1: ID: 2 | Name: Alena | Age: 42 | Friends: [1]
+Server 1: ID: 3 | Name: Petr | Age: 40 | Friends: []
+Server 1: ID: 4 | Name: Ivan | Age: 38 | Friends: []
+===========================================================

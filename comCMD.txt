@@ -1,0 +1,14 @@
+curl.exe -d "{\"name\":\"Ildus\",\"age\":44,\"friends\":[\"2\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Ildus\",\"age\":44,\"friends\":[\"2\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Alena\",\"age\":42,\"friends\":[\"1\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Alena\",\"age\":42,\"friends\":[\"1\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Petr\",\"age\":40,\"friends\":[\"\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Petr\",\"age\":40,\"friends\":[\"\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Ivan\",\"age\":38,\"friends\":[\"\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+curl.exe -d "{\"name\":\"Ivan\",\"age\":38,\"friends\":[\"\"]}" -H "Content-Type: application/json" -X POST http://localhost:9000/create
+
+curl.exe -X POST http://localhost:9000/make_friends -H "Content-Type: application/json" -d "{\"source_id\":\"1\",\"target_id\":\"3\"}"
+
+curl.exe -X DELETE -H "Content-Type: application/json; charset=utf-8" -d "{\"target_id\":\"3\"}" http://localhost:9000/user
+
+curl.exe -X PUT -H "Content-Type: application/json; charset=utf-8" -d "{\"new_age\":28}" http://localhost:9000/usera/1
